@@ -14,12 +14,12 @@ from telegram.ext import (
 from telethon import TelegramClient
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "9177120976:AAE5jNGmaesakmcd4o4gOtyF09hxTXEKVIk"
 API_BASE_URL = "https://osint.aerivue.dev/api/tg"
 
 # Optional (Recommended): Get these from https://my.telegram.org to resolve ANY @username to an ID
-API_ID = 12345678  # Replace with your integer API_ID
-API_HASH = "your_api_hash_here"  # Replace with your API_HASH
+API_ID = 25121973  # Replace with your integer API_ID
+API_HASH = "d9a7c8ce0b699cf8d93115cf6bf51cad"  # Replace with your API_HASH
 
 # Conversation States
 WAITING_FOR_INPUT = 1
